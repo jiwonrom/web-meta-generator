@@ -1,0 +1,15 @@
+<title>力格 | 何力格</title>
+<meta name = "description"content = "荤侩 抗矫涝聪促.,力格,何力格">
+<meta name = "keywords" content = "抗矫1, 抗矫2, 抗矫3, 抗矫4,力格,何力格">
+<meta name = "author" content = "全辨悼">
+<meta property = "og:title" content = "力格 | 何力格"
+<meta property = "og:url" content = "www.example.com"
+<meta property = "og:image" content = "www.example.com/logo.jpg"
+<meta property = "og:description" content = "荤侩 抗矫涝聪促.,力格,何力格"
+<meta property = "og:locale" content = "ko_KR"
+<meta property = "og:site_name" content = "力格"<meta name = "twitter:card" content = "summary">
+<meta name = "twitter:site" content = "力格">
+<meta name = "twitter:title" content = "力格 | 何力格"
+<meta name = "twitter:description" content = "荤侩 抗矫涝聪促.,力格,何力格"
+<meta name = "twitter:image" content = "www.example.com/logo.jpg"
+<link rel = "canonical" href = "www.example.com">
